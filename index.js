@@ -29,7 +29,7 @@ module.exports = {
       // `operation` implements the API call used to fetch the data
       operation: {
         perform: {
-          url: 'https://8470-109-121-61-93.ngrok-free.app/api/passed_builds',
+          url: 'https://fast.ci/api/passed_builds',
         },
         sample: {
           id: 1000021,
